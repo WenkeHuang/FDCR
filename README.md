@@ -13,7 +13,7 @@
 ```
 @inproceedings{FDCR_NeurIPS24,
     title    = {Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning},
-    author    = {Huang, Wenke and Ye, Mang and Shi, Zekun and Wan, Guancheng and Du, Bo and Tao, Dacheng},
+    author    = {Huang, Wenke and Ye, Mang and Shi, Zekun and Wan, Guancheng and Du, Bo},
     booktitle = {NeurIPS},
     year      = {2024}
 }
