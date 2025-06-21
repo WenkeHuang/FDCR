@@ -16,7 +16,7 @@ Backdoor attacks pose a serious threat to federated systems, where malicious cli
     title    = {Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning},
     author    = {Huang, Wenke and Ye, Mang and Shi, Zekun and Wan, Guancheng and Du, Bo and Tao, Dacheng},
     booktitle = {NeurIPS},
-    year      = {2024}Add commentMore actions
+    year      = {2024}
 }
 ```
 
